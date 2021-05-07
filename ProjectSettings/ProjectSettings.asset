@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 22
-  productGUID: fb739da4e6b720040ae9cfeee768b29d
+  productGUID: 67aec4baff6986e498e664d7e37c5299
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -452,6 +452,8 @@ PlayerSettings:
   switchNetworkInterfaceManagerInitializeEnabled: 1
   switchPlayerConnectionEnabled: 1
   switchUseNewStyleFilepaths: 0
+  switchUseMicroSleepForYield: 1
+  switchMicroSleepForYieldTime: 25
   ps4NPAgeRating: 12
   ps4NPTitleSecret: 
   ps4NPTrophyPackPath: 
@@ -641,10 +643,10 @@ PlayerSettings:
     m_VersionName: 
   apiCompatibilityLevel: 6
   activeInputHandler: 0
-  cloudProjectId: cb599953-df92-4654-be77-d1e522535b1c
+  cloudProjectId: 228b9b66-cf24-4369-a656-724abab140f5
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 90 Day Jam
+  projectName: 90 Day Jam (1)
   organizationId: the-game-by-its-cover-jam
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
